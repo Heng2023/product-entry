@@ -1,0 +1,12 @@
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\bin\Debug\ProductEntry.exe.config
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\bin\Debug\ProductEntry.exe
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\bin\Debug\ProductEntry.pdb
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\obj\Debug\ProductEntry.csproj.AssemblyReference.cache
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\obj\Debug\ProductEntry.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\obj\Debug\ProductEntry.FormAddEdit.resources
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\obj\Debug\ProductEntry.FormProductView.resources
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\obj\Debug\ProductEntry.Properties.Resources.resources
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\obj\Debug\ProductEntry.csproj.GenerateResource.cache
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\obj\Debug\ProductEntry.csproj.CoreCompileInputs.cache
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\obj\Debug\ProductEntry.exe
+C:\Users\Heng\Desktop\Hotel Management System\ProductEntry\obj\Debug\ProductEntry.pdb
